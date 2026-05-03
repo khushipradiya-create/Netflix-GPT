@@ -1,12 +1,13 @@
 
-import './App.css';
+import {}
+import Body from "./components/Body";
+import Login from "./components/Login";
+import Browse from "./components/Browse";
 
 function App() {
   return (
-    <div className="App">
-     <h1 className="text-red-500 text-3xl font-bold
-     ">Hello , world</h1>
-    </div>
+     <Body/>
+
   );
 }
 

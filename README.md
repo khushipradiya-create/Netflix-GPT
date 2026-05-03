@@ -47,7 +47,7 @@ Gives a ready-to-use project structure
 Lets you focus on writing code instead of setup
 Provides useful scripts for development, testing, and building
 
-# npx command temprarily install and run create-react-app 
+- Note :  npx command temprarily install and run create-react-app 
 
 # lets set up tailwind : 
 
@@ -57,3 +57,5 @@ when i was installing the tailwind it install two versions of tailwind that's wh
 
  content: ["./src/**/*.{js,jsx,ts,tsx}"] : In files ko scan karo aur jo CSS classes milen, sirf unka hi CSS generate karo
 
+- utils : contains constants , urls other files and shared thinks 
+- rafce(react arrow function component export) : shortcut for creating componants
