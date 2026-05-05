@@ -2,6 +2,9 @@
    - create-react-app
    - configure tailwind
    - configure github
+   - header
+   - login form
+   - sinup form (using useState)
 
 # Features 
 - login/logout
@@ -59,3 +62,17 @@ when i was installing the tailwind it install two versions of tailwind that's wh
 
 - utils : contains constants , urls other files and shared thinks 
 - rafce(react arrow function component export) : shortcut for creating componants
+
+
+# tailwind part 
+
+- z-10 controls which element appears on top when elements overlap.
+👉 Higher z value = more on top
+👉 Works only with positioned elements (relative, absolute, etc.)
+
+- h-screen : 
+  sets the element height to 100% of the viewport (full screen height)
+- Relative parent ke according absolute ko move kro.
+
+# login form 
+ - true && <input /> true && something → will return element. 
